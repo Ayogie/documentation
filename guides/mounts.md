@@ -62,4 +62,5 @@ allowed_mounts:
   - /var/lib/pterodactyl/mounts
 ```
 
-![](./../.vuepress/public/gmod_mount_example.png)
+![](./../.vuepress/public/![Uploading IMG-20240717-WA0151.jpg…]()
+gmod_mount_example.png)
